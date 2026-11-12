@@ -9,3 +9,5 @@ A **separate** paper desk for Luis Herrera's own five-sport prediction model.
 Stake is $20 flat (1u = $20). Status: `PAPER_UNVALIDATED`. Authorization: `PAPER_ONLY`.
 
 Built 2026-11-11 CT. Source and backtest: `/workspace/five-sport-lab/` on the lab machine (`BACKTEST_REPORT.md`, `own/RULES.md`).
+
+Reviewed Nov 12, 2026 CT: college name-matcher bugs fixed (Kansas City Roos → UMKC, State-school prefix traps, non-D1 left unmatched). Backtest headlines unchanged. PAPER only.
