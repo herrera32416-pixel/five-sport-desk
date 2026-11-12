@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="48" height="48">
+  <rect width="64" height="64" rx="12" fill="#0a1628" stroke="#f0c14b" stroke-width="2"/>
+  <text x="32" y="30" text-anchor="middle" font-family="Segoe UI,system-ui,sans-serif" font-weight="800" font-size="16" fill="#f0c14b">5S</text>
+  <text x="32" y="48" text-anchor="middle" font-family="Segoe UI,system-ui,sans-serif" font-weight="700" font-size="9" fill="#7ec2ff">LAB</text>
+</svg>
