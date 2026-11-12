@@ -11,3 +11,5 @@ Stake is $20 flat (1u = $20). Status: `PAPER_UNVALIDATED`. Authorization: `PAPER
 Built 2026-11-11 CT. Source and backtest: `/workspace/five-sport-lab/` on the lab machine (`BACKTEST_REPORT.md`, `own/RULES.md`).
 
 Reviewed Nov 12, 2026 CT: college name-matcher bugs fixed (Kansas City Roos → UMKC, State-school prefix traps, non-D1 left unmatched). Backtest headlines unchanged. PAPER only.
+
+Updated Nov 12, 2026 CT (Blend): own_frozen_v2 market-anchored p* on the board (blended model %, raw as secondary). λ fit on tune only. Official holdout 9-31, −$403.71. PAPER only.
