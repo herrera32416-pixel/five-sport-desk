@@ -13,3 +13,5 @@ Built 2026-11-11 CT. Source and backtest: `/workspace/five-sport-lab/` on the la
 Reviewed Nov 12, 2026 CT: college name-matcher bugs fixed (Kansas City Roos → UMKC, State-school prefix traps, non-D1 left unmatched). Backtest headlines unchanged. PAPER only.
 
 Updated Nov 12, 2026 CT (Blend): own_frozen_v2 market-anchored p* on the board (blended model %, raw as secondary). λ fit on tune only. Official holdout 9-31, −$403.71. PAPER only.
+
+Updated Nov 14, 2026 CT (v3): own_frozen_v3 — better team ratings (possessions, xG, EPA/play), rest/back-to-back/travel, NHL starting goalies, NFL injury reports, 7-day pause that resumes, 6-pt toss-up guard, CFB info only. PLAY-eligible: NHL only (decided on tune). Official v3 holdout 41-56, −$58.96. Cards show blended % (headline), raw % (small), and PLAY-eligible vs INFO ONLY per sport. PAPER only.
